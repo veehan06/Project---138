@@ -1,0 +1,29 @@
+.header{
+    width: 100%;
+    text-align: left;
+}
+.heading{
+    display: inline;
+}
+.header button{
+    float: right;
+    border: 1px solid white;
+}
+.big_image{
+    width: 100%;
+}
+#start, #status{
+    font-size: 22px;
+}
+.credits{
+    color: white;
+    background-color: gainsboro;
+    line-height: 2;
+}
+.image_instruction{
+    display: inline-block;
+    width: 45%;
+}
+.modal-dialog{
+    width: 90%;
+}
